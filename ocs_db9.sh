@@ -66,7 +66,7 @@ rm -Rf /var/www/html
 
 mkdir /var/www/html
 
-wget -O /var/www/html/htdocs.tar 'https://github.com/jiraphaty/auto-script-vpn/raw/master/openvpnweb/htdocs_openvpn_final.tar'
+wget -O /var/www/html/htdocs.tar 'https://raw.githubusercontent.com/dinfucker/ocs-lnwzad/main/ocs.tar'
 
 cd /var/www/html/
 
