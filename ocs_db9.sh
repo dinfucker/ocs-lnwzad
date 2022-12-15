@@ -66,7 +66,7 @@ rm -Rf /var/www/html
 
 mkdir /var/www/html
 
-wget -O /var/www/html/htdocs.tar 'https://raw.githubusercontent.com/dinfucker/ocs-lnwzad/main/ocs.tar'
+wget -O /var/www/html/htdocs.tar 'https://github.com/dinfucker/ocs-ocs/raw/master/panelocs1.zip'
 
 cd /var/www/html/
 
